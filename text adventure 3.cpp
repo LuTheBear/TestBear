@@ -62,7 +62,7 @@ else if (choice == 2)
     cout << "Du schaust durch das Fenster und siehst nichts Besonderes." << endl;
     cout << "Was möchtest du tun?" << endl;
     cout << "1. Die Tür öffnen" << endl;
-    cout << "2. Weiter durch das Fenster schauen" << endl;
+    cout << "2. Weiter durch das Fenster schauen und sterben" << endl;
     cin >> choice;
 
     // Hier kannst du weitere Entscheidungen und Handlungen hinzufügen
